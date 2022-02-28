@@ -1,0 +1,19 @@
+segment_sources:
+  PAF499871:
+    type: origin_type
+    relation: translation
+    language: en
+  PA4203333:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2b64e932888949fab69c166d47c38c31:
+    PAF499871: 0033088ad51248e99feec93e849ab275
+    PA4203333: ca1edd1b35d447d2b97ca94c6ba94dc1
+  39561f0d88c4419789ce0ca7832b158c:
+    PAF499871: 95cc4b7d39d14515b68546c0aada5f56
+    PA4203333: 62b9116f02de436493a836e1a950eb6d
+  190c4b43aa98495493086de3c73944d1:
+    PAF499871: 18e16a96fc4a411c8a6baa7e221e6332
+    PA4203333: 1df5d2ab36744ef58774dee545873585
